@@ -1,3 +1,15 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
+
+![Stellaris](https://img.shields.io/badge/Stellaris-000000?style=for-the-badge&logo=paradox-interactive&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-66B9F2?style=for-the-badge&logo=minecraft&logoColor=white)
+![Bloons TD 6](https://img.shields.io/badge/Bloons%20TD%206-FF4F00?style=for-the-badge&logo=ninja-kiwi&logoColor=white)
+
+
 ## Welcome 👋
 
 Hello there! I'm a Software Engineering BSc student from the University of Leicester.

@@ -2,11 +2,11 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-D4B830?style=for-the-badge&logo=javascript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
 
 ![Stellaris](https://img.shields.io/badge/Stellaris-000000?style=for-the-badge&logo=paradox-interactive&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-66B9F2?style=for-the-badge&logo=minecraft&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-66B9F2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAYAAACohjseAAAACXBIWXMAAAsSAAALEgHS3X78AAAA70lEQVRoQ+2YQQrDMAwEm9Jz///NvqBxLqFHCQZ5KeOzWK12TBz7+K71ANaxFiBzS1C+nqSpRC0HTKTS8STBTlqJtRJMpNLxJMFOWom1Ekyk0vEkwU5aibUSTKTS8STBTlrWbkgAe2ZYTwzv5f9DzEA+f2ADXoNR7yjkgH5kiC23U0OCO9MnekuQSHGnhgR3pk/0Lh301AFOGP7VqPwQuEXp1Kf1JDidON1PgnSi03oSnE6c7idBOtFpPQlOJ073kyCd6LSeBKcTp/u9SMHKBbTSj7xgu0UriSfXSDCZTsWbBCspJddIMJlOxdvfEzwBe0QYaRDpQPEAAAAASUVORK5CYII=&logoColor=white)
 ![Bloons TD 6](https://img.shields.io/badge/Bloons%20TD%206-FF4F00?style=for-the-badge&logo=ninja-kiwi&logoColor=white)
 
 
